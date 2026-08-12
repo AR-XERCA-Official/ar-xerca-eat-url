@@ -47,7 +47,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Access Token Tool | XERCA ‌🇽 xLoNeLi</title>
+    <title>Access Token Tool | XERCA TOOL</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
     <style>
         * {
@@ -611,11 +611,16 @@ HTML_TEMPLATE = '''
         </div>
         <div id="responseContent"></div>
     </div>
+
+    <div class="footer">
+        <a href="https://t.me/AR_XERCA_BOT" target="_blank" class="telegram-btn">
+            <i class="fab fa-telegram"></i> Telegram Bot
+        </a>
         <a href="https://t.me/Z_7_KBot" target="_blank" class="owner-btn">
             <i class="fas fa-crown"></i> Owner
         </a>
         <a href="#"><i class="fas fa-file-contract"></i> Terms & Conditions</a>
-        <span class="brand">© 2026 xLoNeLi </span>
+        <span class="brand">© 2026 AR XERCA </span>
     </div>
 
 </div>

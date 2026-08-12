@@ -880,6 +880,5 @@ def redirect(url):
     from flask import redirect as flask_redirect
     return flask_redirect(url)
 
-if __name__ == '__main__':
-    if __name__ == "__main__":
+if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)

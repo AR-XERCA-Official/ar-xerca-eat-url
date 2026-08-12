@@ -611,12 +611,7 @@ HTML_TEMPLATE = '''
         </div>
         <div id="responseContent"></div>
     </div>
-
-    <div class="footer">
-        <a href="https://t.me/T10INDRAJIT" target="_blank" class="telegram-btn">
-            <i class="fab fa-telegram"></i> Telegram Channel
-        </a>
-        <a href="https://t.me/ROX_T10" target="_blank" class="owner-btn">
+        <a href="https://t.me/Z_7_KBot" target="_blank" class="owner-btn">
             <i class="fas fa-crown"></i> Owner
         </a>
         <a href="#"><i class="fas fa-file-contract"></i> Terms & Conditions</a>
